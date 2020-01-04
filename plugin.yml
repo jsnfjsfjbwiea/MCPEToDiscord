@@ -1,5 +1,5 @@
 ---
-name: MCPEToDiscord
+name: Webhook
 author: JaxkDev
 version: 1.4.1
 api: 3.0.0
